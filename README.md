@@ -11,7 +11,7 @@
 
 🚀 Tech Stack
 Languages: Python, C++, SQL, HTML/CSS
-Frameworks: PyTorch, Flask, OpenCV, TensorFlow (basics)
+Frameworks: PyTorch, Flask, OpenCV, Mediapipe, TensorFlow (basics)
 Tools: VS Code, Docker, Git, MySQL, Jetson Nano
 
 
